@@ -2,13 +2,13 @@
 
 An online fashion store targeting young men, focused on selling clothing through a digital storefront. The brand caters to a youthful male demographic with an e-commerce model built for browsing and purchasing apparel online.
 
-Source: https://zanos-800e7c28.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הלבש את הסטייל שלך מעכשיו — Zanos
 
-URL: https://zanos-800e7c28.zappy5.app
+URL: https://example.com
 Description: חנות האופנה המובילה לגברים צעירים מחכה לך. גלה קולקציות טרנדיות, בגדי מעצבים וסטיילינג מנצח באתר הקניות הכי שווה ברשת. התחל לעצב את המראה שלך עוד היום!
 
 הלבש את הסטייל שלך מעכשיו — Zanos
@@ -478,7 +478,7 @@ Zanos
 
 ## שדרג את הלוק עם הטיפים הכי חמים — Zanos
 
-URL: https://zanos-800e7c28.zappy5.app/style-guide
+URL: https://example.com/style-guide
 Description: רוצה להתלבש כמו מקצוען? מדריך הסגנון שלנו חושף את כל הסודות, מהתאמת צבעים ועד שילובים מנצחים. היכנס עכשיו ולמד איך להפוך כל הופעה לבלתי נשכחת.
 
 שדרג את הלוק עם הטיפים הכי חמים — Zanos
@@ -837,7 +837,7 @@ Zanos
 
 ## קבל השראה מהקולקציות החדשות — Zanos
 
-URL: https://zanos-800e7c28.zappy5.app/lookbook
+URL: https://example.com/lookbook
 Description: הלוקבוק שלנו מציג את הטרנדים העכשוויים ביותר לגברים צעירים. צפה בתמונות מעוררות השראה, גלה מראות חדשים ומצא את הסגנון שמדבר אליך. התחיל לחקור עכשיו!
 
 קבל השראה מהקולקציות החדשות — Zanos
@@ -1278,7 +1278,7 @@ Zanos
 
 ## הכר את הסיפור שמאחורי הסטייל — Zanos
 
-URL: https://zanos-800e7c28.zappy5.app/about
+URL: https://example.com/about
 Description: Zanos נולדה מתוך תשוקה לאופנת גברים צעירה ורעננה. גלה מי אנחנו, מה מניע אותנו ואיך אנחנו מביאים את הטרנדים הכי לוהטים ישירות אליך. הצטרף למהפכת הסטייל!
 
 הכר את הסיפור שמאחורי הסטייל — Zanos
@@ -1717,7 +1717,7 @@ Zanos
 
 ## דבר איתנו ונתפור לך מענה מושלם — Zanos
 
-URL: https://zanos-800e7c28.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה על מידות, משלוחים או סטיילינג אישי? צוות Zanos כאן בשבילך. מלא את הפרטים ונחזור אליך במהירות עם שירות שיגרום לך להרגיש כמו VIP. צור קשר עכשיו!
 
 דבר איתנו ונתפור לך מענה מושלם — Zanos
@@ -2152,7 +2152,7 @@ Zanos
 
 ## מוצרים
 
-URL: https://zanos-800e7c28.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Zanos
 
 מוצרים - Zanos
@@ -2563,7 +2563,7 @@ Zanos
 
 ## עגלת קניות
 
-URL: https://zanos-800e7c28.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Zanos
@@ -2816,7 +2816,7 @@ Zanos
 
 ## תשלום
 
-URL: https://zanos-800e7c28.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Zanos
@@ -3255,7 +3255,7 @@ Zanos
 
 ## התחברות
 
-URL: https://zanos-800e7c28.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Zanos
@@ -3515,7 +3515,7 @@ Zanos
 
 ## החשבון שלי
 
-URL: https://zanos-800e7c28.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Zanos
@@ -3930,7 +3930,7 @@ Zanos
 
 ## ההזמנה התקבלה!
 
-URL: https://zanos-800e7c28.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Zanos
@@ -4207,7 +4207,7 @@ Zanos
 
 ## מדיניות החזרות
 
-URL: https://zanos-800e7c28.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Zanos
@@ -4513,7 +4513,7 @@ Zanos
 
 ## פרטי המוצר
 
-URL: https://zanos-800e7c28.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Zanos
 
 פרטי המוצר - Zanos
@@ -4768,7 +4768,7 @@ Zanos
 
 ## מוצרים
 
-URL: https://zanos-800e7c28.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Zanos
 
 מוצרים - Zanos
@@ -5047,7 +5047,7 @@ Zanos
 
 ## מדיניות פרטיות
 
-URL: https://zanos-800e7c28.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5328,7 +5328,7 @@ Zanos
 
 ## הצהרת נגישות
 
-URL: https://zanos-800e7c28.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5618,7 +5618,7 @@ Zanos
 
 ## תנאי שימוש
 
-URL: https://zanos-800e7c28.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5927,7 +5927,7 @@ Zanos
 
 ## תודה - Zanos
 
-URL: https://zanos-800e7c28.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Zanos - תודה - Zanos
 
 תודה - Zanos
