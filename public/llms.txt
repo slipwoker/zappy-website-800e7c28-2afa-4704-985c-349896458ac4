@@ -1,0 +1,108 @@
+# Zanos — Generative Engine Optimization Map
+
+> An online fashion store targeting young men, focused on selling clothing through a digital storefront. The brand caters to a youthful male demographic with an e-commerce model built for browsing and purchasing apparel online.
+
+---
+
+## Pages
+
+### בית
+https://zanos-800e7c28.zappy5.app
+חנות האופנה המובילה לגברים צעירים מחכה לך. גלה קולקציות טרנדיות, בגדי מעצבים וסטיילינג מנצח באתר הקניות הכי שווה ברשת. התחל לעצב את המראה שלך עוד היום!
+
+### מדריך סגנון
+https://zanos-800e7c28.zappy5.app/style-guide
+רוצה להתלבש כמו מקצוען? מדריך הסגנון שלנו חושף את כל הסודות, מהתאמת צבעים ועד שילובים מנצחים. היכנס עכשיו ולמד איך להפוך כל הופעה לבלתי נשכחת.
+
+### לוקבוק
+https://zanos-800e7c28.zappy5.app/lookbook
+הלוקבוק שלנו מציג את הטרנדים העכשוויים ביותר לגברים צעירים. צפה בתמונות מעוררות השראה, גלה מראות חדשים ומצא את הסגנון שמדבר אליך. התחיל לחקור עכשיו!
+
+### אודות
+https://zanos-800e7c28.zappy5.app/about
+Zanos נולדה מתוך תשוקה לאופנת גברים צעירה ורעננה. גלה מי אנחנו, מה מניע אותנו ואיך אנחנו מביאים את הטרנדים הכי לוהטים ישירות אליך. הצטרף למהפכת הסטייל!
+
+### צור קשר
+https://zanos-800e7c28.zappy5.app/contact
+יש שאלה על מידות, משלוחים או סטיילינג אישי? צוות Zanos כאן בשבילך. מלא את הפרטים ונחזור אליך במהירות עם שירות שיגרום לך להרגיש כמו VIP. צור קשר עכשיו!
+
+### Products
+https://zanos-800e7c28.zappy5.app/products
+המוצרים שלנו - Zanos
+
+### Cart
+https://zanos-800e7c28.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://zanos-800e7c28.zappy5.app/checkout
+תשלום
+
+### Login
+https://zanos-800e7c28.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://zanos-800e7c28.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://zanos-800e7c28.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://zanos-800e7c28.zappy5.app/product/:slug
+פרטי המוצר - Zanos
+
+### Category
+https://zanos-800e7c28.zappy5.app/category/:slug
+מוצרים - Zanos
+
+### תודה - Zanos
+https://zanos-800e7c28.zappy5.app/thank-you
+Zanos - תודה - Zanos
+
+## Legal & Policy
+
+### Privacy Policy
+https://zanos-800e7c28.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://zanos-800e7c28.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://zanos-800e7c28.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Zanos
+An online fashion store targeting young men, focused on selling clothing through a digital storefront. The brand caters to a youthful male demographic with an e-commerce model built for browsing and purchasing apparel online.
+
+## Target Audience
+- גברים צעירים
+- גברים צעירים עירוניים
+- בלוגרים ומשפיעני אופנה
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://zanos-800e7c28.zappy5.app/sitemap.xml
+- Robots: https://zanos-800e7c28.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://zanos-800e7c28.zappy5.app/llms-full.txt
+- Products (JSON): https://zanos-800e7c28.zappy5.app/products.json
+- Products (Google Merchant RSS): https://zanos-800e7c28.zappy5.app/product-feed.xml
